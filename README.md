@@ -1,8 +1,8 @@
-# processo-seletivo-escribo
+# Função somatório Multiplos 3 e 5:
  Desafio técnico 1: Este projeto consiste em uma função JavaScript que calcula o somatório de todos os valores inteiros menores que um número fornecido e divisíveis por 3 ou 5.
 
  
-Abaixo estão as instruções para rodar e testar o projeto que contém a função somatorioMultiplos3e5:
+Abaixo estão as instruções para rodar e testar o projeto que contém a função somatorio Multiplos 3 e 5:
 
 Pré-requisitos:
 
